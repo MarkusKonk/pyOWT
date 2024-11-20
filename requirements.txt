@@ -2,6 +2,6 @@ numpy
 pandas
 scipy
 PyYAML
-netCDF4
 xarray
-matplotlib
+lxml
+netCDF4
