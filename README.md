@@ -2,6 +2,9 @@
 
 Note: this repo is translated from the R repo [`OWT`](https://github.com/bishun945/OWT) for the water type classification and has been maintained independently from its original version.
 
+# MyBinder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarkusKonk/pyOWT/containerize)
+
 # Install
 
 Clone the whole repo to the your path and install it:
